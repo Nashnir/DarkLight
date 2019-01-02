@@ -1,0 +1,1 @@
+{"T001":{"taskID":"T001","taskName":"消灭怪物","description":"消灭Enemy1*2,消灭Enemy2*3","taskConditions":[{"id":"Enemy1","nowAmount":2,"targetAmount":2,"isFinish":true},{"id":"Enemy2","nowAmount":2,"targetAmount":2,"isFinish":true}],"taskRewards":[{"id":"Reward1","amount":5},{"id":"Reward2","amount":3}]}}

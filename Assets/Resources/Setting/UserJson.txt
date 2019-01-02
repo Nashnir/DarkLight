@@ -1,0 +1,1 @@
+[{"Hp":300,"MaxHp":300,"Mp":220,"MaxMp":300,"Attack":0,"Speed":0,"Def":0}]

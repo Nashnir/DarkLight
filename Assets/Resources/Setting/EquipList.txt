@@ -1,0 +1,1 @@
+[{"id":0,"Equipment_Type":0},{"id":0,"Equipment_Type":1},{"id":0,"Equipment_Type":2},{"id":0,"Equipment_Type":3},{"id":0,"Equipment_Type":4},{"id":0,"Equipment_Type":5},{"id":0,"Equipment_Type":6},{"id":0,"Equipment_Type":7}]
